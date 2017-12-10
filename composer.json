@@ -1,0 +1,13 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Polux\\Test\\" : "src"
+		}
+	},
+	"name" : "polux/AppCore",
+	"type" : "php",
+	"license" : "Apache-2.0",
+	"require" : {
+		"php" : ">=7.1"
+	}
+}
